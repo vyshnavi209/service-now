@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="srec tab" max_length="40" name="x_594702_srec_srec_tab" type="collection">
+        <element label="studentname" max_length="30" name="studentname" type="string"/>
+    </element>
+</database>
